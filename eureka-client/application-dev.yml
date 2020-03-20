@@ -18,4 +18,4 @@ eureka:
       defaultZone: http://localhost:7000/eureka/
     register-with-eureka: true
 
-info: batch-master eureka-client-config-dev
+info: batch-master eureka-client-config-dev 31312312
