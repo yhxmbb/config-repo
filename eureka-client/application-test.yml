@@ -18,4 +18,4 @@ eureka:
       defaultZone: http://localhost:7000/eureka/
     register-with-eureka: true
 
-info: eureka-client-config-test
+info: eureka-client-config-testxxx
